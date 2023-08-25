@@ -11,6 +11,9 @@ python = "^3.9"
 python-dotenv = "^1.0.0"
 youtube-transcript-api = "^0.6.1"
 google-api-python-client = "^2.97.0"
+tiktoken = "^0.4.0"
+langchain = "^0.0.272"
+openai = "^0.27.9"
 
 
 [tool.poetry.group.dev.dependencies]
