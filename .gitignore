@@ -6,7 +6,8 @@ __pycache__/
 # C extensions
 *.so
 *.txt
-
+hashtaged_summaries/
+hashtaged_keyword_summaries/
 # Distribution / packaging
 .Python
 build/
